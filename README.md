@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohammedadnanaz7@gmail.com**
 
-- ⚡ Fun fact **I love to go to gym after doing coding for a long time**
+- ⚡ Fun fact **I love to go to gym after coding for a long time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
