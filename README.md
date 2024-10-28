@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adnan Mohammed</h1>
 <h3 align="center">A passionate computer programming student @ Seneca Polytechnic</h3>
 
-- 🔭 I’m currently working on **Assembly Line**
+- 🔭 I’m currently working on **Splits Pro (Bill Spliting App)**
 
 - 🌱 I’m currently learning **React, Angular and Data Structure and Algorithms**
 
-- 💬 Ask me about **C, C++, JavaScript, HTML, CSS, MongoDB, SQL**
+- 💬 Ask me about **C, C++, JavaScript, HTML, CSS, MongoDB, SQL, React, and Data Structure and Algorithms**
 
 - 📫 How to reach me **mohammedadnanaz7@gmail.com**
 
