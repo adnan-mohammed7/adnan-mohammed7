@@ -1,58 +1,61 @@
-<h1 align="center">Hi 👋, I'm Adnan Mohammed</h1>
-<h3 align="center">A Passionate Computer Programming Student @ Seneca Polytechnic</h3>
+<h1 align="center">Hi there 👋, I'm Adnan Mohammed</h1>
+<h3 align="center">A passionate Computer Programming student at Seneca Polytechnic</h3>
 
-<p align="center">  
-🚀 Turning ideas into reality through code | 💡 Exploring new technologies | 💻 Lifelong learner  
+<p align="center">
+I love solving problems through code, building intuitive user experiences, and exploring cutting-edge technologies. I'm continuously learning and sharing my knowledge to grow as a developer and contribute to impactful projects.
 </p>
 
 ---
 
-### 🌟 About Me
-- 🔭 **Current Project:** Working on a **Hotel Reservation System** with a focus on intuitive UI design.  
-- 🌱 **Currently Learning:** Expanding expertise in **Java SE**, **Mobile Development**, and **UI/UX Design**.  
-- 💬 **Ask Me About:**  
-  - Programming Languages: **C, C++, Python, Java**  
-  - Web Development: **HTML, CSS, JavaScript, React.js**  
-  - Databases: **MongoDB, SQL**  
-- ⚡ **Fun Fact:** After hours of coding, you’ll find me smashing it on the badminton court or hitting the gym!  
+### 🔭 Current Projects
+- **Hotel Reservation System**: Developing a user-friendly application focusing on seamless UI/UX for guest and admin functionality.
+- **Pizza App**: A Java-based mobile app for ordering and managing pizza preferences.
+
+### 🌱 Currently Learning
+- **Java (Standard Edition & Mobile Development)**: Enhancing expertise in Java and mobile development tools like spinners and adapters.
+- **UI/UX Design**: Creating visually appealing, functional designs using scene builders and layout optimization.
+
+### 💬 Ask Me About
+- **Programming Languages**: C, C++, Java, Python, JavaScript
+- **Web Development**: HTML, CSS, React, Node.js, Express.js
+- **Databases**: MongoDB, SQL
+- **Version Control**: Git, GitHub
+- **UI/UX**: Best practices for creating intuitive user interfaces
 
 ---
 
-### 🛠️ Tech Stack
-#### **Languages:**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### **Web Development:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### **Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 📫 How to Reach Me
+- **Email**: mohammedadnanaz7@gmail.com
+- **LinkedIn**: [Adnan Mohammed](https://www.linkedin.com/in/adnan-mohammed-az7/)
+- **Instagram**: [adnan.x_](https://instagram.com/adnan.x_)
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** [Adnan Mohammed](https://www.linkedin.com/in/adnan-mohammed-az7/)  
-- **Instagram:** [@adnan.x_](https://instagram.com/adnan.x_)  
-- **Email:** mohammedadnanaz7@gmail.com  
+### ⚡ Fun Fact
+When I'm not coding or learning new technologies, you'll likely find me playing badminton or at the gym working out to stay active and focused.
+
+---
+
+### 🛠️ Technologies & Tools
+<p align="left">
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" /></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-mohammed7&show_icons=true&locale=en&layout=compact" alt="adnan-mohammed7" />
-</p>
-
----
-
-✨ Thanks for stopping by! Let’s create something amazing together. 🚀
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-mohammed7&show_icons=true&locale=en&layout=compact" alt="adnan-mohammed7" /></p>
