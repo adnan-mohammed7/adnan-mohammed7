@@ -2,90 +2,119 @@
 <h3 align="center">Computer Programming & Analysis Graduate - Seneca Polytechnic</h3>
 
 <p align="center">
-Hands-on developer experienced in JavaFX desktop apps, full-stack web systems, REST APIs, Docker containerization, AWS deployments, and mobile apps for Android and iOS. Focus on building reliable CRUD systems with database integration and CI/CD pipelines. Explore repositories below for production-grade code and architecture decisions.[file:1]
+Software developer with experience building JavaFX desktop applications, full-stack web systems, REST APIs, and mobile apps for Android and iOS. Comfortable with database-backed CRUD workflows, Docker-based environments, and CI/CD automation. Repositories below highlight implemented features, validations, and end-to-end application workflows.
 </p>
 
 ---
 
-## 📂 Featured Projects
-
-Explore hands-on work across desktop, web, mobile, and backend systems.
-
-- **[Hotel Reservation System](https://github.com/adnan-mohammed7/Hotel-Reservation-System)**  
-  JavaFX kiosk app managing check-ins, bookings, billing with MySQL availability checks to block double-bookings. Input validation ensures self-service reliability.[file:1]
-
-- **[Fragments Microservice](https://github.com/adnan-mohammed7/fragments)**  
-  Express REST API with validation, logging, Docker containerization, GitHub Actions CI/CD. Built for AWS Lambda serverless scaling.[file:1]
-
-- **[City Recommender](https://github.com/sukhad123/City_Recommender)**  
-  Full-stack app recommending Canadian cities. AWS Cognito auth, S3 storage, Prisma/PostgreSQL data layer. Shaped features via user study on comparisons and filters.[file:1]
-
-- **[Auto Loan Application](https://github.com/adnan-mohammed7/AutoLoanApplication)**  
-  JavaFX bank calculator for weekly/bi-weekly/monthly payments. Sliders, choice boxes, alerts, MySQL auth, complex interest algorithms.[file:1]
-
-- **[Tax Filing Management - iOS](https://github.com/adnan-mohammed7/TaxFileManagement-iOS)**  
-  SwiftUI/Core Data app for tax workflows. Role-based access, validation, admin dashboard tracking client progress.[file:1]
-
-- **[Tax Filing Management - Android](https://github.com/adnan-mohammed7/TaxFilingManagementApp)**  
-  Room DB app for client records/status. Google Maps integration, secure registration, live updates.[file:1]
-
-- **[Inventory Management System](https://github.com/adnan-mohammed7/Inventory-Management-System)**  
-  JavaFX desktop app for parts/products with MySQL. ID/name search, cross-record validation for consistency.[file:1]
-
-- **[Book Collection Manager - iOS](https://github.com/adnan-mohammed7/Book-Collection-Manager-iOS)**  
-  SwiftUI/Core Data for book CRUD, real-time search, favorites, swipe actions, state management.[file:1]
-
-- **[Movie App - Android](https://github.com/adnan-mohammed7/MovieApp)**  
-  RecyclerView listings with Glide images, CRUD, swipe-delete, persistent data.[file:1]
-
-- **[Cooking Class App - Android](https://github.com/adnan-mohammed7/CookingClassApp)**  
-  Recipe app with multi-stage timers, seek bars for progress, ratings/reviews.[file:1]
-
-- **[Straw Hat Pirates Crew Registration - iOS](https://github.com/adnan-mohammed7/StrawHatPirates-CrewForm-iOS)**  
-  SwiftUI form with validation, password toggles, alerts, reusable profile components.[file:1]
-
-- **[Assembly Line Application](https://github.com/adnan-mohammed7/Assembly-Line-Project)**  
-  C++ queue system simulating production, partial fulfillment, stock checks, modular design.[file:1]
-
-- **[Point Of Sale System](https://github.com/adnan-mohammed7/Point-Of-Sale-System)**  
-  Console POS for inventory/sales/receipts. Stock validation prevents overselling, optimized workflows.[file:1]
+## 🎯 Focus Areas
+- Backend development (REST APIs, authentication, data persistence)
+- Cloud-ready services (containerization, CI/CD, AWS integrations)
+- Mobile apps (SwiftUI/Core Data, Kotlin/Room)
+- Quality-minded development (validation, testing, debugging)
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack (Resume)
+- **Languages:** C, C++, Java, Python, JavaScript, Swift, Kotlin
+- **Web / Frameworks:** Node.js, Express.js, React, Next.js, HTML5, CSS3
+- **Databases:** MySQL, SQLite, MongoDB, PostgreSQL, Room DB, Core Data, Prisma ORM
+- **Cloud / DevOps:** AWS, Azure, Docker, Docker Compose, Git, GitHub Actions
+- **Mobile:** Android (Kotlin, Android Studio), iOS (SwiftUI, Xcode)
+- **Other:** REST APIs, JavaFX, WordPress, Technical Documentation
 
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" alt="GitHub Actions" width="40" height="40" /></a>
-</p>
+---
+
+## 🧰 Tools & Practices
+- **Cloud:** AWS (Cognito, S3, DynamoDB, ECS/EC2), AWS CLI/SDKs
+- **Testing:** Unit testing, integration testing, debugging workflows
+- **Delivery:** SDLC fundamentals, Agile concepts, documentation and handoff
+- **Web:** WordPress (site management, plugins, performance, SEO workflows)
+
+---
+
+## 📂 Projects
+
+### Backend / Cloud
+- **[Fragments Microservice](https://github.com/adnan-mohammed7/fragments)**
+  - Developed an Express-based REST API with request validation, structured logging, and user ID hashing.
+  - Containerized the service with Docker and used Docker Compose to run an integrated multi-container local environment.
+  - Implemented CI/CD to automatically build, tag, and push container images on each git push.
+  - Integrated AWS services (Cognito for auth, S3 for object storage, DynamoDB for data persistence) and used AWS CLI/SDKs for service interaction.
+  - Added integration testing and local development support by simulating AWS dependencies offline.
+
+- **[City Recommender](https://github.com/sukhad123/City_Recommender)**
+  - Collaborated on a full-stack application that recommends Canadian cities based on user preferences.
+  - Integrated authentication and storage using AWS Cognito and S3.
+  - Implemented data access using Prisma ORM with PostgreSQL.
+  - Conducted a user study that directly shaped filtering and comparison features.
+
+### Desktop (JavaFX)
+- **[Hotel Reservation System](https://github.com/adnan-mohammed7/Hotel-Reservation-System)**
+  - Built a JavaFX kiosk application to manage hotel check-ins, bookings, and billing.
+  - Implemented MySQL-backed availability validation to prevent double bookings across room types.
+  - Designed input validation and error handling to keep transactions reliable in a self-service flow.
+
+- **[Auto Loan Application](https://github.com/adnan-mohammed7/AutoLoanApplication)**
+  - Built a JavaFX calculator for weekly, bi-weekly, and monthly loan payment options.
+  - Reduced input errors using sliders, choice boxes, and alert-driven validation.
+  - Implemented secure MySQL authentication and multi-tier financial algorithms for complex interest rates.
+
+- **[Inventory Management System](https://github.com/adnan-mohammed7/Inventory-Management-System)**
+  - Built a JavaFX desktop application to manage parts and products with MySQL persistence.
+  - Implemented search by ID and name with comprehensive validation.
+  - Enforced cross-record validation rules to prevent invalid updates and inconsistent inventory.
+
+### Mobile (iOS - SwiftUI)
+- **[Tax Filing Management - iOS](https://github.com/adnan-mohammed7/TaxFileManagement-iOS)**
+  - Built an iOS application using SwiftUI and Core Data to manage tax client workflows.
+  - Implemented role-based access, form validation, and persistent storage for admin and customer views.
+  - Designed an admin dashboard with status indicators and profile management to track filing progress.
+
+- **[Book Collection Manager - iOS](https://github.com/adnan-mohammed7/Book-Collection-Manager-iOS)**
+  - Built an iOS application using SwiftUI and Core Data to manage personal book collections.
+  - Implemented full CRUD with real-time search, favorites, and persistent storage.
+  - Designed navigation with detail views, edit sheets, swipe actions, and state-driven UI validation.
+
+- **[Straw Hat Pirates Crew Registration - iOS](https://github.com/adnan-mohammed7/StrawHatPirates-CrewForm-iOS)**
+  - Developed a SwiftUI form-based app with input validation and credential checks.
+  - Implemented secure password visibility toggling, alerts, and reset logic.
+  - Built a profile screen with reusable components and state-driven UI updates.
+
+### Mobile (Android)
+- **[Tax Filing Management - Android](https://github.com/adnan-mohammed7/TaxFilingManagementApp)**
+  - Developed an Android application using Room DB to manage client records and status tracking.
+  - Integrated Google Maps to display client locations within admin detail screens.
+  - Implemented secure registration, persistent storage, and live status updates.
+
+- **[Movie App](https://github.com/adnan-mohammed7/MovieApp)**
+  - Built an Android app using RecyclerView to display movie listings and detail screens.
+  - Integrated Glide for efficient image loading and smooth scrolling performance.
+  - Implemented CRUD operations with swipe-to-delete and persistent storage.
+
+- **[Cooking Class App](https://github.com/adnan-mohammed7/CookingClassApp)**
+  - Built an Android recipe application featuring multi-stage timers and step-by-step cooking guidance.
+  - Implemented progress tracking with seek bars and visual indicators to improve usability.
+  - Added rating and review features to support user feedback and engagement.
+
+- **[Pizza App](https://github.com/adnan-mohammed7/PizzaApp)**
+  - Built a Java-based mobile app for ordering and managing pizza preferences.
+  - Implemented selection flows for customization (size, toppings, quantity) with input validation.
+  - Added an order summary flow to confirm choices and reduce ordering mistakes.
+
+### Systems / C++
+- **[Assembly Line Application](https://github.com/adnan-mohammed7/Assembly-Line-Project)**
+  - Developed a queue-based C++ system to simulate production workflows and order fulfillment.
+  - Implemented partial fulfillment logic and stock checks for incomplete inventory scenarios.
+  - Structured the application using modular components to improve maintainability and error handling.
+
+- **[Point Of Sale System](https://github.com/adnan-mohammed7/Point-Of-Sale-System)**
+  - Developed a console-based POS system to manage inventory, sales transactions, and receipt generation.
+  - Implemented stock tracking and validation to prevent overselling and handle low inventory scenarios.
+  - Optimized transaction workflows to reduce manual input and improve checkout efficiency.
 
 ---
 
 ## 📫 Contact
-
-- **Email** [mohammedadnanaz7@gmail.com](mailto:mohammedadnanaz7@gmail.com)
-- **LinkedIn** [Adnan Mohammed](https://www.linkedin.com/in/adnan-mohammed-az7/)
-- **Phone** 905-781-6529[file:1]
-
----
-
-## ⚡ Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-mohammed7&show_icons=true&locale=en&layout=compact&theme=radical" alt="adnan-mohammed7" />
-</p>
+- **Email:** [mohammedadnanaz7@gmail.com](mailto:mohammedadnanaz7@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/adnan-mohammed-az7/
