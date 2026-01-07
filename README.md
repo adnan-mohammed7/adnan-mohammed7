@@ -15,7 +15,7 @@ Software developer with experience building JavaFX desktop applications, full-st
 
 ---
 
-## 🛠️ Tech Stack (Resume)
+## 🛠️ Tech Stack
 - **Languages:** C, C++, Java, Python, JavaScript, Swift, Kotlin
 - **Web / Frameworks:** Node.js, Express.js, React, Next.js, HTML5, CSS3
 - **Databases:** MySQL, SQLite, MongoDB, PostgreSQL, Room DB, Core Data, Prisma ORM
