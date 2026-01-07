@@ -15,24 +15,6 @@ Software developer with experience building JavaFX desktop applications, full-st
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** C, C++, Java, Python, JavaScript, Swift, Kotlin
-- **Web / Frameworks:** Node.js, Express.js, React, Next.js, HTML5, CSS3
-- **Databases:** MySQL, SQLite, MongoDB, PostgreSQL, Room DB, Core Data, Prisma ORM
-- **Cloud / DevOps:** AWS, Azure, Docker, Docker Compose, Git, GitHub Actions
-- **Mobile:** Android (Kotlin, Android Studio), iOS (SwiftUI, Xcode)
-- **Other:** REST APIs, JavaFX, WordPress, Technical Documentation
-
----
-
-## 🧰 Tools & Practices
-- **Cloud:** AWS (Cognito, S3, DynamoDB, ECS/EC2), AWS CLI/SDKs
-- **Testing:** Unit testing, integration testing, debugging workflows
-- **Delivery:** SDLC fundamentals, Agile concepts, documentation and handoff
-- **Web:** WordPress (site management, plugins, performance, SEO workflows)
-
----
-
 ## 📂 Projects
 
 ### Backend / Cloud
@@ -112,6 +94,24 @@ Software developer with experience building JavaFX desktop applications, full-st
   - Developed a console-based POS system to manage inventory, sales transactions, and receipt generation.
   - Implemented stock tracking and validation to prevent overselling and handle low inventory scenarios.
   - Optimized transaction workflows to reduce manual input and improve checkout efficiency.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Java, Python, JavaScript, Swift, Kotlin
+- **Web / Frameworks:** Node.js, Express.js, React, Next.js, HTML5, CSS3
+- **Databases:** MySQL, SQLite, MongoDB, PostgreSQL, Room DB, Core Data, Prisma ORM
+- **Cloud / DevOps:** AWS, Azure, Docker, Docker Compose, Git, GitHub Actions
+- **Mobile:** Android (Kotlin, Android Studio), iOS (SwiftUI, Xcode)
+- **Other:** REST APIs, JavaFX, WordPress, Technical Documentation
+
+---
+
+## 🧰 Tools & Practices
+- **Cloud:** AWS (Cognito, S3, DynamoDB, ECS/EC2), AWS CLI/SDKs
+- **Testing:** Unit testing, integration testing, debugging workflows
+- **Delivery:** SDLC fundamentals, Agile concepts, documentation and handoff
+- **Web:** WordPress (site management, plugins, performance, SEO workflows)
 
 ---
 
