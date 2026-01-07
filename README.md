@@ -79,11 +79,6 @@ Software developer with experience building JavaFX desktop applications, full-st
   - Implemented progress tracking with seek bars and visual indicators to improve usability.
   - Added rating and review features to support user feedback and engagement.
 
-- **[Pizza App](https://github.com/adnan-mohammed7/PizzaApp)**
-  - Built a Java-based mobile app for ordering and managing pizza preferences.
-  - Implemented selection flows for customization (size, toppings, quantity) with input validation.
-  - Added an order summary flow to confirm choices and reduce ordering mistakes.
-
 ### Systems / C++
 - **[Assembly Line Application](https://github.com/adnan-mohammed7/Assembly-Line-Project)**
   - Developed a queue-based C++ system to simulate production workflows and order fulfillment.
@@ -118,3 +113,5 @@ Software developer with experience building JavaFX desktop applications, full-st
 ## 📫 Contact
 - **Email:** [mohammedadnanaz7@gmail.com](mailto:mohammedadnanaz7@gmail.com)
 - **LinkedIn:** https://www.linkedin.com/in/adnan-mohammed-az7/
+- **Instagram:** [adnan.x_](https://www.instagram.com/adnan.x_/)
+
